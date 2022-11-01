@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "redux",
+      "type": "frontend"
+    },
+    {
+      "id": 2,
+      "name": "redux",
+      "type": "frontend"
+    },
+    {
+      "name": "xxx",
+      "type": "xx",
+      "iduser": 3,
+      "id": 3
+    },
+    {
+      "name": "ss",
+      "type": "ss",
+      "iduser": 2,
+      "id": 4
+    }
+  ]
+}
